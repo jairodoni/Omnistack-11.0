@@ -1,0 +1,4 @@
+//Pegar o mesmo endereço que o "expo" passar caso teste no celular
+let SERVER_MOBILE_HOST = "http://127.0.0.1:0000"
+
+export {SERVER_MOBILE_HOST} 
