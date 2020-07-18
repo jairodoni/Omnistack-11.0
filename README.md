@@ -17,6 +17,10 @@
 O "Be The Hero" é um projeto social de ajuda ao animais para encontrar doadores para auxiliarem em situações de necessidade.
 O projeto foi desenvolvido com base nas aulas da semana Omnistack-11.0, evento criado pela Rocketseat.
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+
 <!-- 
   ...
   Local Reservado para o GIF do projeto rodando.
@@ -42,6 +46,9 @@ O projeto foi desenvolvido com base nas aulas da semana Omnistack-11.0, evento c
   - **[dotENV][dotenv]**
   - **[Celebrate][celebrate]**
   - **[Joi][joi]**
+  - **[Jest][jest]**
+  - **[CrossEnv][cross_env]**
+  - **[SuperTest][supertest]**
 
   \* Veja o arquivo <kbd>[package.json](./project/server/package.json)</kbd>
 
@@ -261,6 +268,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 [celebrate]: https://github.com/arb/celebrate
 
 [joi]: https://github.com/hapijs/joi
+
+[jest]: https://jestjs.io/
+
+[supertest]: https://github.com/visionmedia/supertest
+
+[cross_env]: https://github.com/kentcdodds/cross-env
 
 [asdf]: https://github.com/asdf-vm/asdf
 
