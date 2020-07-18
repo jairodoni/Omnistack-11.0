@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-O "Be The Hero" é um projeto social de ajuda ao animais para encontrar doadores para auxiliarem em situações de necessidade os animais.
+O "Be The Hero" é um projeto social de ajuda ao animais para encontrar doadores para auxiliarem em situações de necessidade.
 O projeto foi desenvolvido com base nas aulas da semana Omnistack-11.0, evento criado pela Rocketseat.
 
 <!-- 
