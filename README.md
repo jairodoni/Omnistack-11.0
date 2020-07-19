@@ -21,10 +21,12 @@ O projeto foi desenvolvido com base nas aulas da semana Omnistack-11.0, evento c
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+#### **Web**
 <p align="center">
   <img alt="telasWeb" src=".github/telasWeb.png" width="100%">
 </p>
 
+#### **Mobile**
 <p align="center">
   <img alt="telasMobile" src=".github/telasMobile.png" width="100%">
 </p>
@@ -32,14 +34,14 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 ## **:computer: TECNOLOGIAS**
 
 
-#### **Website** ([React][react] 
+#### **Website** ([React][react])
 
   - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
   - **[Axios][axios]**
   
 
-#### **Server** ([NodeJS][node] 
+#### **Server** ([NodeJS][node])
 
   - **[Express][express]**
   - **[CORS][cors]**
@@ -54,7 +56,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
   \* Veja o arquivo <kbd>[package.json](./project/server/package.json)</kbd>
 
-#### **Mobile** ([React Native][react_native] 
+#### **Mobile** ([React Native][react_native])
 
   - **[Expo][expo]**
   - **[Expo Google Fonts][expo_google_fonts]**
