@@ -7,7 +7,7 @@
 ![Npm_Badge][npm_version_badge] ![Node_Badge][node_version_badge] ![NodeJS_Badge][server_nodejs_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![GitHub][repository_license_badge]
 <br>
 <p align="center">
-  <img alt="Ecoleta" src=".github/bethehero.png" width="100%">
+  <img alt="bethehero" src=".github/bethehero.png" width="100%">
 </p>
 
 </div>
@@ -21,11 +21,13 @@ O projeto foi desenvolvido com base nas aulas da semana Omnistack-11.0, evento c
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-<!-- 
-  ...
-  Local Reservado para o GIF do projeto rodando.
-  ...
--->
+<p align="center">
+  <img alt="telasWeb" src=".github/telasWeb.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="telasMobile" src=".github/telasMobile.png" width="100%">
+</p>
 
 ## **:computer: TECNOLOGIAS**
 
@@ -129,7 +131,7 @@ Veja os arquivos **`package.json`** do <kbd>[server](./project/server/package.js
 $ cd ./project/server
 
 # Executando a aplicação em modo de desenvolvimento:
-$ npm run dev
+$ npm run start
 
 # Instanciando o banco de dados:
 $ npm run knex:migrate
