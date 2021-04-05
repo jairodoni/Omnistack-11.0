@@ -6,18 +6,41 @@
 
 ![Npm_Badge][npm_version_badge] ![Node_Badge][node_version_badge] ![NodeJS_Badge][server_nodejs_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![GitHub][repository_license_badge]
 <br>
+
+<p align="center">
+  <strong>
+      <a href="#-projeto">Projeto</a> &nbsp;|&nbsp; 
+  </strong>
+  <strong>
+      <a href="#-layout">Layout</a> &nbsp;|&nbsp; 
+  </strong>
+  <strong>
+      <a href="#-tecnologias">Tecnologias</a> &nbsp;|&nbsp; 
+  </strong>
+  <strong>
+      <a href="#-tecnologias">Tecnologias</a> &nbsp;|&nbsp; 
+  </strong>
+  <strong>
+      <a href="#-como-executar-o-projeto">Executando</a> &nbsp;|&nbsp; 
+  </strong>
+  <strong>
+      <a href="#-referências">Referências</a>
+  </strong>
+</p>
+
+
 <p align="center">
   <img alt="bethehero" src=".github/bethehero.png" width="100%">
 </p>
 
 </div>
 
-## 💻 Projeto
+## **💻 Projeto**
 
 O "Be The Hero" é um projeto social de ajuda ao animais para encontrar doadores para auxiliarem em situações de necessidade.
 O projeto foi desenvolvido com base nas aulas da semana Omnistack-11.0, evento criado pela Rocketseat.
 
-## 🔖 Layout
+## **🔖 Layout**
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
@@ -31,7 +54,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
   <img alt="telasMobile" src=".github/telasMobile.png" width="100%">
 </p>
 
-## **:computer: TECNOLOGIAS**
+## **💻 Tecnologias**
 
 
 #### **Website** ([React][react])
@@ -77,7 +100,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 - Fontes: **[Roboto][font_roboto]**
 
 
-## **:pushpin: COMO UTILIZAR**
+## **🚀 Como executar o projeto**
 
 ### Configurações Iniciais
 
@@ -180,7 +203,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 **\* Lembre de inserir no arquivo `.env` o IP exato que foi gerado pelo seu mobile após utilizar o comando `npm run start`.**
 
 
-## **:books: REFERÊNCIAS**
+## **:📚 Referências**
 
 - [Blog Rocketseat](https://blog.rocketseat.com.br/)
 - [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
