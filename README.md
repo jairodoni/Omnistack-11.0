@@ -14,16 +14,16 @@
 
 <p align="center">
   <strong>
-      <a href="#-projeto">Projeto</a> &nbsp;|&nbsp; 
+      <a href="#-projeto">Projeto</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   </strong>
   <strong>
-      <a href="#-layout">Layout</a> &nbsp;|&nbsp; 
+      <a href="#-layout">Layout</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   </strong>
   <strong>
-      <a href="#-tecnologias">Tecnologias</a> &nbsp;|&nbsp; 
+      <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   </strong>
   <strong>
-      <a href="#-como-executar-o-projeto">Executando</a> &nbsp;|&nbsp; 
+      <a href="#-como-executar-o-projeto">Executando</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   </strong>
   <strong>
       <a href="#-referências">Referências</a>
