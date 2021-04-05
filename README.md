@@ -2,9 +2,11 @@
     <img alt="Be The Hero" title="Be The Hero" src=".github/hero.svg" width="352px" />
 </h1>
 
+![Npm_Badge][npm_version_badge] ![Node_Badge][node_version_badge] ![NodeJS_Badge][server_nodejs_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![GitHub][repository_license_badge]
+
 <div align="center">
 
-![Npm_Badge][npm_version_badge] ![Node_Badge][node_version_badge] ![NodeJS_Badge][server_nodejs_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![GitHub][repository_license_badge]
+
 <br>
 
 <p align="center">
